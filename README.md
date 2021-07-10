@@ -4,6 +4,7 @@
  <br/>
  <br/>
  <br/>
- ![project image](https://github.com/mukherjeetejas/music-tejas/blob/main/music%20app.PNG)
+ ![project image](https://github.com/mukherjeetejas/music-tejas/blob/main/music%20app.PNG)<br/><br/>
+ ![project image](https://github.com/mukherjeetejas/music-tejas/blob/main/image2.PNG)
  
 
